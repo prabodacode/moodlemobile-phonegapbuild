@@ -20,8 +20,6 @@ var appVersion = '2.3 (2004)',
     reportInBackgroundName = 'mmCoreReportInBackground',
     errors = [];
 
-appVersion += ' Official app';
-
 /**
  * Check if error should be reported in background. If setting is not set, a confirm modal will be shown.
  *
